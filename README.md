@@ -1,4 +1,4 @@
-# configswitcher
+# ConfigSwitcher
 
 ### To add a configuration
 ```bash
@@ -20,3 +20,6 @@ Copia la configurazione scelta da quelle precedentemente aggiunte, sovrascrivend
 ```bash
 cs config list
 ```
+
+
+### Rember to add `.configswitcher` to your `.gitignore`
